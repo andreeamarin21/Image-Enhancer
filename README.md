@@ -1,1 +1,1 @@
-# Image-Enhancer
+At its core, the project is centered on leveraging Java's Object-Oriented Programming (OOP) features to construct a proficient and user-friendly mechanism for adjusting image brightness. Notably, the system is designed to handle BMP files as image inputs, ensuring compatibility with this specific image format. Through the systematic application of OOP principles, the project encapsulates essential methods and properties, fostering a modular and easily maintainable codebase tailored for BMP image enhancement.
